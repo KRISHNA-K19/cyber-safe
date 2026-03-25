@@ -1,0 +1,9 @@
+{"timestamp":"2026-03-25T10:00:01Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"admin"}
+{"timestamp":"2026-03-25T10:00:02Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"admin"}
+{"timestamp":"2026-03-25T10:00:03Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"guest"}
+{"timestamp":"2026-03-25T10:00:04Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"test"}
+{"timestamp":"2026-03-25T10:00:05Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"root"}
+{"timestamp":"2026-03-25T10:00:50Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":401,"message":"Failed login: invalid credentials","user":"admin"}
+{"timestamp":"2026-03-25T10:00:51Z","ip":"192.168.1.100","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64)","endpoint":"/api/login","method":"POST","status":200,"message":"Login successful","user":"admin","session":"abc123"}
+{"timestamp":"2026-03-25T10:01:00Z","ip":"8.8.8.8","user_agent":"curl/7.68.0","endpoint":"/api/login","method":"POST","status":200,"message":"Login successful","user":"user1"}
+{"timestamp":"2026-03-25T10:01:01Z","ip":"1.2.3.4","user_agent":"Chrome/120","endpoint":"/api/dashboard","method":"GET","status":200,"message":"OK"}
